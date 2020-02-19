@@ -1,0 +1,14 @@
+/* .st-main-field label{	font-size: 16px; line-height: 24px; }
+.st-main-field .st_field{ padding: 6px; display: block; border-radius: 4px; }
+.st-main-field .st_chk_group{ padding: 10px 0;  }
+.st-main-field .st_field_chk{ border-radius: 4px; margin-right: 6px; line-height: 40px; }
+.st-main-field span{ line-height: 30px; } */
+.std-custom-main-form .custom-st-form { width: 70%; margin: 0 auto; }
+label.error{ display: block; color: red; }
+span.st_req_field{ color: red; font-weight: bold; }
+.target-click:hover{ cursor: pointer; }
+#per_display_student_details label{ font-size: 16px; line-height: 26px; }
+
+.std_pop_center { margin: 20px auto; width: 60%; padding: 20px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+.std_hideform { display: none; }
+

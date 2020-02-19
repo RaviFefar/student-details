@@ -1,0 +1,5 @@
+.std_custom_heading{ padding: 20px 0; font-size: 24px; }
+.std_box_display{ border: 1px solid #e2e2e2; padding: 10px; margin-bottom: 15px; box-shadow: 0px 0px 4px #e2e2e2; }
+.std_box_display img{ width: 100%; }
+@media(min-width: 767px) {.std_box_display { height: 116px; } .std_box_display img { height: 100px; } }
+.std_box_display h5{  }
